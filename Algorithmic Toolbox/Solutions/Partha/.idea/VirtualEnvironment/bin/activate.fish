@@ -56,7 +56,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/partharyali/Documents/Examples_DataStruct_Algorithms/Algorithmic Toolbox/Week 1/Solutions/Partha/.idea/VirtualEnvironment"
+set -gx VIRTUAL_ENV "/Users/partharyali/Documents/Examples_DataStruct_Algorithms/Algorithmic Toolbox/Solutions/Partha/.idea/VirtualEnvironment"
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | tr "." "\n")[1] -lt 3

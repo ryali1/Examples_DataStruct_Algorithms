@@ -13,8 +13,8 @@ files:
       length: 9
       offset: 439
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Failed
   text: |
     # python3
 
@@ -55,7 +55,7 @@ files:
       offset: 401
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Failed
   text: |
     import unittest
     from random import randint
@@ -120,5 +120,5 @@ files:
             passed()
   learner_created: false
 feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/d5xfz/maximum-pairwise-product/discussions
-status: Unchecked
+status: Failed
 record: -1

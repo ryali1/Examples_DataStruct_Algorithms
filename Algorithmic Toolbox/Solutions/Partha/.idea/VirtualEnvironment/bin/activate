@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/partharyali/Documents/Examples_DataStruct_Algorithms/Algorithmic Toolbox/Week 1/Solutions/Partha/.idea/VirtualEnvironment"
+VIRTUAL_ENV="/Users/partharyali/Documents/Examples_DataStruct_Algorithms/Algorithmic Toolbox/Solutions/Partha/.idea/VirtualEnvironment"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

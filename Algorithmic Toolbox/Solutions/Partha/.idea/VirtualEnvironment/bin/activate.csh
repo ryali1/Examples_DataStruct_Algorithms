@@ -10,7 +10,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/partharyali/Documents/Examples_DataStruct_Algorithms/Algorithmic Toolbox/Week 1/Solutions/Partha/.idea/VirtualEnvironment"
+setenv VIRTUAL_ENV "/Users/partharyali/Documents/Examples_DataStruct_Algorithms/Algorithmic Toolbox/Solutions/Partha/.idea/VirtualEnvironment"
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"
