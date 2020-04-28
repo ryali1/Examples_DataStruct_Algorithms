@@ -7,7 +7,8 @@ class TestMaxPairwiseProduct(unittest.TestCase):
         self.assertEqual(max_pairwise_product([1, 2, 3]), 6)
         self.assertEqual(max_pairwise_product([9, 3, 2]), 27)
         self.assertEqual(max_pairwise_product([7, 3, 7, 2]), 49)
-        type here
+        self.assertEqual(max_pairwise_product([1, 3, 5, 9, 9]), 81)
+        self.assertEqual(max_pairwise_product([1, 2]), 2)
 
 
     def test_stress(self):
