@@ -5,7 +5,17 @@ def compute_optimal_summands(n):
     assert 1 <= n <= 10 ** 9
     summands = []
 
-    type here
+    list1 = list()
+    a = 0
+    for i in range(0,n):
+        list1.append(a + 1)
+        a = a + 1
+        if sum(list1) + a >= n:
+            list1[i] = list1[i] + (n - sum(list1))
+            return list1
+
+
+
 
     return summands
 

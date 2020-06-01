@@ -20,11 +20,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2daf6943-a930-45aa-9bdb-0afdcb9cee78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product_unit_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/sum_of_two_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/sum_of_two_digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Challenges/Sum of Two Digits/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/fibonacci_number_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/last_digit_of_fibonacci_number_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of Fibonacci Number/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/lcm_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithmic Warm Up/Least Common Multiple/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Binary Search/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/majority_element_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Majority Element/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Money Change Again/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Car Fueling/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/maximum_ad_revenue_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Advertisement Revenue/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/money_change_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy Algorithms/Money Change/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy Algorithms/Money Change/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +105,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct.test_small">
-    <configuration name="maximum_pairwise_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.edit_distance">
+    <configuration name="edit_distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Shanay" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Edit Distance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,69 +127,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="primitive_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shanay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator/primitive_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for edit_distance_unit_tests.EditDistance.test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Shanay" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Edit Distance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct&quot;" />
+      <option name="_new_target" value="&quot;edit_distance_unit_tests.EditDistance.test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct.test_small" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for primitive_calculator_unit_tests.PrimitiveCalculator.test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Shanay" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct.test_small&quot;" />
+      <option name="_new_target" value="&quot;primitive_calculator_unit_tests.PrimitiveCalculator.test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct.test_stress" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in money_change_again_unit_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Shanay" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Money Change Again" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct.test_stress&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in maximum_pairwise_product_unit_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Shanay" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Programming Challenges/Maximum Pairwise Product/maximum_pairwise_product_unit_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Dynamic Programming/Money Change Again/money_change_again_unit_tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct.test_small" />
-        <item itemvalue="Python.maximum_pairwise_product" />
-        <item itemvalue="Python tests.Unittests for maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct" />
-        <item itemvalue="Python tests.Unittests in maximum_pairwise_product_unit_tests.py" />
-        <item itemvalue="Python tests.Unittests for maximum_pairwise_product_unit_tests.TestMaxPairwiseProduct.test_stress" />
+        <item itemvalue="Python.edit_distance" />
+        <item itemvalue="Python tests.Unittests for edit_distance_unit_tests.EditDistance.test" />
+        <item itemvalue="Python.primitive_calculator" />
+        <item itemvalue="Python tests.Unittests for primitive_calculator_unit_tests.PrimitiveCalculator.test" />
+        <item itemvalue="Python tests.Unittests in money_change_again_unit_tests.py" />
       </list>
     </recent_temporary>
   </component>
@@ -146,8 +213,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-43" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588133879475">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-43" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1588133879475" />
     <state x="93" y="93" width="1313" height="773" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588107447102">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -156,37 +228,103 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="522" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960@0.0.1500.960" timestamp="1588108288851" />
-    <state width="1458" height="255" key="GridCell.Tab.0.bottom" timestamp="1588109377848">
+    <state x="93" y="93" width="1313" height="773" key="DiffContextDialog" timestamp="1588281408384">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1588109377848" />
-    <state width="1458" height="255" key="GridCell.Tab.0.center" timestamp="1588109377847">
+    <state x="93" y="93" width="1313" height="773" key="DiffContextDialog/0.0.1500.960@0.0.1500.960" timestamp="1588281408384" />
+    <state width="1458" height="189" key="GridCell.Tab.0.bottom" timestamp="1590980979983">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1588109377847" />
-    <state width="1458" height="255" key="GridCell.Tab.0.left" timestamp="1588109377847">
+    <state width="1458" height="189" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1590980979983" />
+    <state width="1458" height="189" key="GridCell.Tab.0.center" timestamp="1590980979983">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1588109377847" />
-    <state width="1458" height="255" key="GridCell.Tab.0.right" timestamp="1588109377847">
+    <state width="1458" height="189" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1590980979983" />
+    <state width="1458" height="189" key="GridCell.Tab.0.left" timestamp="1590980979983">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1588109377847" />
-    <state width="1458" height="316" key="GridCell.Tab.1.bottom" timestamp="1588108737857">
+    <state width="1458" height="189" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1590980979983" />
+    <state width="1458" height="189" key="GridCell.Tab.0.right" timestamp="1590980979983">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="316" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1588108737857" />
-    <state width="1458" height="316" key="GridCell.Tab.1.center" timestamp="1588108737856">
+    <state width="1458" height="189" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1590980979983" />
+    <state width="1458" height="226" key="GridCell.Tab.1.bottom" timestamp="1590980979964">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="316" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1588108737856" />
-    <state width="1458" height="316" key="GridCell.Tab.1.left" timestamp="1588108737856">
+    <state width="1458" height="226" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1590980979964" />
+    <state width="1458" height="226" key="GridCell.Tab.1.center" timestamp="1590980979964">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="316" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1588108737856" />
-    <state width="1458" height="316" key="GridCell.Tab.1.right" timestamp="1588108737857">
+    <state width="1458" height="226" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1590980979964" />
+    <state width="1458" height="226" key="GridCell.Tab.1.left" timestamp="1590980979964">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="316" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1588108737857" />
+    <state width="1458" height="226" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1590980979964" />
+    <state width="1458" height="226" key="GridCell.Tab.1.right" timestamp="1590980979964">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1590980979964" />
+    <state width="700" height="460" key="XDebugger.FullValuePopup" timestamp="1590980456779">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="700" height="460" key="XDebugger.FullValuePopup/0.0.1500.960@0.0.1500.960" timestamp="1590980456779" />
+    <state x="559" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588282694960">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="559" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1588282694960" />
+    <state x="409" y="222" key="run.anything.popup" timestamp="1590978841826">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="409" y="222" key="run.anything.popup/0.0.1500.960@0.0.1500.960" timestamp="1590978841826" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers_unit_tests.py</url>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

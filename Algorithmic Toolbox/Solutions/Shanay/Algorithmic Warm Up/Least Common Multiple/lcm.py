@@ -14,7 +14,14 @@ def lcm_naive(a, b):
 def lcm(a, b):
     assert 1 <= a <= 2 * 10 ** 9 and 1 <= b <= 2 * 10 ** 9
 
-    type here
+    multiplemax = (max(a, b))
+    multiplemin = min(a,b)
+    r = multiplemax
+    for i in range(0, multiplemax):
+        if r % multiplemin == 0:
+            return r
+        else:
+            r = multiplemax * (i + 2)
 
 
 if __name__ == '__main__':

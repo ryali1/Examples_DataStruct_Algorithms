@@ -14,7 +14,20 @@ def change_naive(money):
 
 
 def change(money):
-    type here
+    list1 = [money] * (money + 1)
+    list1[0] = 0
+    for i in range(1, money+1):
+        a = i - 1
+        b = i - 3
+        c = i - 4
+        if a >= 0 and b >= 0 and c >= 0:
+            list1[i] = min(list1[i-1] + 1, list1[a] + 1, list1[b] + 1, list1[c] + 1)
+        elif b < 0 and c < 0:
+            list1[i] = min(list1[i-1] + 1, list1[a] + 1)
+        else:
+            list1[i] = min(list1[i-1] + 1, list1[a] + 1, list1[b] + 1)
+    return list1[money]
+
 
 
 if __name__ == '__main__':

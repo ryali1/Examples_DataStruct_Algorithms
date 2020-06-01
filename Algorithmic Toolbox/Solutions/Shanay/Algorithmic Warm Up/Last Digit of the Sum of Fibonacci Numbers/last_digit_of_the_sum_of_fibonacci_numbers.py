@@ -19,9 +19,22 @@ def last_digit_of_the_sum_of_fibonacci_numbers_naive(n):
 def last_digit_of_the_sum_of_fibonacci_numbers(n):
     assert 0 <= n <= 10 ** 18
 
-    type here
+    if n <= 1:
+        return n
+    period = 60
+    remainder = n % period
+    if remainder == 0:
+        return 0
+    total = remainder + 1
+    list1 = [0] * total
+    list1[1] = 1
+    for i in range(2, total):
+        list1[i] = (list1[i-2] + list1[i-1])
+    return sum(list1) % 10
+
 
 
 if __name__ == '__main__':
     input_n = int(input())
     print(last_digit_of_the_sum_of_fibonacci_numbers(input_n))
+

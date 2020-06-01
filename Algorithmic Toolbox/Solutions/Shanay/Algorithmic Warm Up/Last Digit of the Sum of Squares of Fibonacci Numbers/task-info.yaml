@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 510
-    length: 9
+    length: 364
     placeholder_text: type here
     initial_state:
       length: 9
       offset: 510
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
   text: |
     # python3
@@ -45,13 +45,13 @@ files:
   visible: true
   placeholders:
   - offset: 593
-    length: 9
+    length: 6
     placeholder_text: type here
     initial_state:
       length: 9
       offset: 593
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
   text: |
     import unittest

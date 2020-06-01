@@ -15,7 +15,20 @@ def largest_number_naive(numbers):
 
 
 def largest_number(numbers):
-    type here
+    list1 = list()
+    list1.append(numbers[0])
+    list2 = list()
+    z = 0
+    s = ""
+    for i in range(1, len(numbers)):
+        for j in range(0, len(list1) + 1):
+            list2 = list1.copy()
+            list2.insert(j, numbers[i])
+            if int(s.join(map(str, list2))) > z:
+                z = int(s.join(map(str, list2)))
+                counter = j
+        list1.insert(counter, numbers[i])
+    return int(s.join(map(str, list1)))
 
 
 if __name__ == '__main__':

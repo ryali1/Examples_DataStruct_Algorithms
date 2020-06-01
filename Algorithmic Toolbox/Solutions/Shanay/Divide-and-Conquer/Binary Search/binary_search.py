@@ -10,10 +10,21 @@ def linear_search(keys, query):
 
 
 def binary_search(keys, query):
-    assert all(keys[i] < keys[i + 1] for i in range(len(keys) - 1))
+
     assert 1 <= len(keys) <= 3 * 10 ** 4
 
-    type here
+    n = len(keys)
+    minindex = 0
+    maxindex = n-1
+    while maxindex >= minindex:
+        midindex = int(minindex + ((maxindex - minindex)/2))
+        if keys[midindex] == query:
+            return midindex
+        elif keys[midindex] < query:
+            minindex = midindex + 1
+        else:
+            maxindex = midindex - 1
+    return -1
 
 
 if __name__ == '__main__':

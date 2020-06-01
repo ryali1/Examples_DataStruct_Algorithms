@@ -10,7 +10,31 @@ def maximum_loot_value(capacity, weights, prices):
     assert all(0 < w <= 2 * 10 ** 6 for w in weights)
     assert all(0 <= p <= 2 * 10 ** 6 for p in prices)
 
-    type here
+    totalweightremaining = capacity
+    totalvalue = 0
+    maxprice1 = list()
+    maxpos1 = list()
+    unitprice = list()
+
+    for i in range (0, len(prices)):
+        unitprice.append(prices[i]/weights[i])
+
+    for i in range(0,2 * 10 ** 6):
+
+        maxprice1.append(max(unitprice))
+        maxpos1.append(unitprice.index(max(unitprice)))
+        if maxprice1[i] == 0:
+            return totalvalue
+        if weights[maxpos1[i]] >= totalweightremaining:
+            totalvalue = totalvalue + (totalweightremaining * maxprice1[i])
+            totalweightremaining = 0
+            return totalvalue
+        else:
+            totalvalue = totalvalue + (weights[maxpos1[i]] * maxprice1[i])
+            totalweightremaining = totalweightremaining - weights[maxpos1[i]]
+            weights[maxpos1[i]] = 0
+            unitprice[maxpos1[i]] = 0
+
 
 
 if __name__ == "__main__":

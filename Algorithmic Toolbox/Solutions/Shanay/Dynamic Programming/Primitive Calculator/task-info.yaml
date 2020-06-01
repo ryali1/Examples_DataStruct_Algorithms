@@ -7,7 +7,7 @@ files:
   visible: true
   placeholders:
   - offset: 186
-    length: 9
+    length: 6
     placeholder_text: type here
     initial_state:
       length: 9
@@ -62,13 +62,13 @@ files:
   visible: true
   placeholders:
   - offset: 72
-    length: 9
+    length: 1110
     placeholder_text: type here
     initial_state:
       length: 9
       offset: 72
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
   text: |
     # python3
