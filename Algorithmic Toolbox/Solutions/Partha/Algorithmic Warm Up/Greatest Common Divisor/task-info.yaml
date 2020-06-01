@@ -3,14 +3,14 @@ files:
 - name: gcd.py
   visible: true
   placeholders:
-  - offset: 313
-    length: 9
+  - offset: 308
+    length: 133
     placeholder_text: type here
     initial_state:
       length: 9
       offset: 313
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
   text: |
     # python3

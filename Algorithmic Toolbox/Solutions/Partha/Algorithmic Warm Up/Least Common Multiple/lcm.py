@@ -14,7 +14,18 @@ def lcm_naive(a, b):
 def lcm(a, b):
     assert 1 <= a <= 2 * 10 ** 9 and 1 <= b <= 2 * 10 ** 9
 
-    type here
+    if b == 0:
+        return print(a)
+
+        den = a%b
+        gcd(b,den)
+
+    if a>b:
+        gcd = gcd(a,b)
+    else:
+        gcd = gcd(b,a)
+
+    
 
 
 if __name__ == '__main__':
