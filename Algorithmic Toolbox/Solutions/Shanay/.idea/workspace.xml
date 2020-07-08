@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2daf6943-a930-45aa-9bdb-0afdcb9cee78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/edit_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Edit Distance/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression_unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression_unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/task-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1b9bKUkDKZdmJxW9CEGSXugQaZK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in arithmetic_expression_unit_tests.py">
+    <configuration name="maximum_gold" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shanay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold/maximum_gold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shanay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for edit_distance_unit_tests.EditDistance.test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Shanay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Edit Distance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;edit_distance_unit_tests.EditDistance.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for maximum_gold_unit_tests.MaximumGold.test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Shanay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;maximum_gold_unit_tests.MaximumGold.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in arithmetic_expression_unit_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Shanay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression_unit_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in arithmetic_expression_unit_tests.py" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python tests.Unittests for maximum_gold_unit_tests.MaximumGold.test" />
+        <item itemvalue="Python.maximum_gold" />
+        <item itemvalue="Python tests.Unittests for edit_distance_unit_tests.EditDistance.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-43" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588133879475">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-43" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1588133879475" />
+    <state x="93" y="93" width="1313" height="773" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588107447102">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="93" y="93" width="1313" height="773" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1500.960@0.0.1500.960" timestamp="1588107447102" />
+    <state x="522" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588108288851">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="522" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960@0.0.1500.960" timestamp="1588108288851" />
+    <state x="93" y="93" width="1313" height="773" key="DiffContextDialog" timestamp="1588281408384">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="93" y="93" width="1313" height="773" key="DiffContextDialog/0.0.1500.960@0.0.1500.960" timestamp="1588281408384" />
+    <state width="1458" height="226" key="GridCell.Tab.0.bottom" timestamp="1591608378008">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1591608378008" />
+    <state width="1458" height="226" key="GridCell.Tab.0.center" timestamp="1591608378008">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1591608378008" />
+    <state width="1458" height="226" key="GridCell.Tab.0.left" timestamp="1591608378008">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1591608378008" />
+    <state width="1458" height="226" key="GridCell.Tab.0.right" timestamp="1591608378008">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1591608378008" />
+    <state width="1458" height="226" key="GridCell.Tab.1.bottom" timestamp="1591608381096">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1591608381096" />
+    <state width="1458" height="226" key="GridCell.Tab.1.center" timestamp="1591608381096">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1591608381096" />
+    <state width="1458" height="226" key="GridCell.Tab.1.left" timestamp="1591608381096">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1591608381096" />
+    <state width="1458" height="226" key="GridCell.Tab.1.right" timestamp="1591608381096">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="226" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1591608381096" />
+    <state width="700" height="460" key="XDebugger.FullValuePopup" timestamp="1590980456779">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="700" height="460" key="XDebugger.FullValuePopup/0.0.1500.960@0.0.1500.960" timestamp="1590980456779" />
+    <state x="559" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588282694960">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="559" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1588282694960" />
+    <state x="409" y="222" key="run.anything.popup" timestamp="1590978841826">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="409" y="222" key="run.anything.popup/0.0.1500.960@0.0.1500.960" timestamp="1590978841826" />
+    <state x="413" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1591592971326">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="413" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1591592971326" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Greatest Common Divisor/gcd.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers/last_digit_of_the_sum_of_fibonacci_numbers_unit_tests.py</url>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Fibonacci Numbers Again/last_digit_of_the_sum_of_fibonacci_numbers_again.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Last Digit of the Sum of Squares of Fibonacci Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Maximum Value of the Loot/maximum_loot.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Car Fueling/car_fueling.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Binary Search/binary_search.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Improving QuickSort/quicksort.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic Programming/Maximum Value of an Arithmetic Expression/arithmetic_expression.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
